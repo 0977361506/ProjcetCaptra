@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-recaptcha
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: TGDD
+Implementation-Vendor-Id: com.mightyjava
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-r
+ ecaptcha/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
